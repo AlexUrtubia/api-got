@@ -1,0 +1,14 @@
+
+#houses{
+    width: 660px;
+}
+img{
+    border: 2px black;
+    height: 115px;
+    width: 150px;
+    margin: 5px;
+}
+fieldset{   
+    width: 460px;
+    margin:auto;
+}
